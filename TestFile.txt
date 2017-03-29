@@ -1,1 +1,12 @@
-test 2
+Steps to checkin
+
+change file
+
+git status
+
+git add
+
+git commit
+
+git push origin master
+
